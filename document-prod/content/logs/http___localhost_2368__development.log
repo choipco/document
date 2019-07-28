@@ -1,0 +1,45 @@
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: posts","time":"2019-07-19T00:58:57.124Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: users","time":"2019-07-19T00:58:57.138Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: posts_authors","time":"2019-07-19T00:58:57.154Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: roles","time":"2019-07-19T00:58:57.164Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: roles_users","time":"2019-07-19T00:58:57.176Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: permissions","time":"2019-07-19T00:58:57.185Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: permissions_users","time":"2019-07-19T00:58:57.197Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: permissions_roles","time":"2019-07-19T00:58:57.206Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: permissions_apps","time":"2019-07-19T00:58:57.213Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: settings","time":"2019-07-19T00:58:57.221Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: tags","time":"2019-07-19T00:58:57.233Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: posts_tags","time":"2019-07-19T00:58:57.246Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: apps","time":"2019-07-19T00:58:57.252Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: app_settings","time":"2019-07-19T00:58:57.268Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: app_fields","time":"2019-07-19T00:58:57.278Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: clients","time":"2019-07-19T00:58:57.286Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: client_trusted_domains","time":"2019-07-19T00:58:57.300Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: accesstokens","time":"2019-07-19T00:58:57.307Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: refreshtokens","time":"2019-07-19T00:58:57.318Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: subscribers","time":"2019-07-19T00:58:57.332Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: invites","time":"2019-07-19T00:58:57.344Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: brute","time":"2019-07-19T00:58:57.362Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: webhooks","time":"2019-07-19T00:58:57.368Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: sessions","time":"2019-07-19T00:58:57.376Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: integrations","time":"2019-07-19T00:58:57.387Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: api_keys","time":"2019-07-19T00:58:57.401Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: mobiledoc_revisions","time":"2019-07-19T00:58:57.413Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: members","time":"2019-07-19T00:58:57.425Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Creating table: actions","time":"2019-07-19T00:58:57.437Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Model: Tag","time":"2019-07-19T00:58:57.456Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Model: Client","time":"2019-07-19T00:58:57.490Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Model: Role","time":"2019-07-19T00:58:57.506Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Model: Permission","time":"2019-07-19T00:58:57.537Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Model: User","time":"2019-07-19T00:58:57.854Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Model: Post","time":"2019-07-19T00:58:58.452Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Model: Integration","time":"2019-07-19T00:58:58.737Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Relation: Role to Permission","time":"2019-07-19T00:58:58.757Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Relation: Post to Tag","time":"2019-07-19T00:58:59.112Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Relation: User to Role","time":"2019-07-19T00:58:59.158Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Ghost is running in development...","time":"2019-07-19T00:59:01.558Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Listening on: 127.0.0.1:2368","time":"2019-07-19T00:59:01.564Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Url configured as: http://localhost:2368/","time":"2019-07-19T00:59:01.565Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Ctrl+C to shut down","time":"2019-07-19T00:59:01.566Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":30,"msg":"Ghost boot 5.891s","time":"2019-07-19T00:59:01.574Z","v":0}
+{"name":"Log","hostname":"web516.webfaction.com","pid":38014,"level":40,"msg":"Ghost has shut down","time":"2019-07-19T00:59:33.845Z","v":0}

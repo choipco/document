@@ -1,0 +1,22 @@
+{{!-- hr > line in top --}}
+<hr class="hr-list">
+
+<article class="story u-flex u-relative {{#if featured}}featured{{/if}}">
+    <a href="{{url}}" class="story-image u-relative u-overflowHidden u-bgGray image-hover">
+        {{!-- Image - partials/helper/helper-story-image.hbs --}}
+        {{> "helper/helper-story-image"}}
+        {{!-- Media Type - partials/helper/helper-media-type.hbs --}}
+        {{> "helper/helper-media-type"}}
+    </a>
+
+    <div class="story-body u-flexColumn u-marginTop20 u-relative">
+        {{!-- Category and Datetime partials/helper/helper-story-meta --}}
+        {{> "helper/helper-story-meta"}}
+        {{!-- Title --}}
+        <h2 class="u-fontSizeLarge u-lineHeightTight u-marginBottom10"><a href="{{url}}">{{title}}</a></h2>
+        {{!-- excerpt --}}
+        <div class="story-lower u-relative u-overflowHidden u-flexColumnTop">
+            <a href="{{url}}" class="story-excerpt u-block">{{excerpt words="25"}}</a>
+        </div>
+    </div>
+</article>

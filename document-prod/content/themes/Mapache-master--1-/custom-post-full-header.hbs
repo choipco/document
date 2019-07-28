@@ -1,0 +1,34 @@
+{{!-- Layout --}}
+{{!< default }}
+
+{{!-- Ad --}}
+{{> "ad/ad-post-header"}}
+
+<section class="extreme-container u-marginTop30">
+    {{!-- Article Header - partials/article/article-header.hbs --}}
+    {{> "article/article-header"}}
+
+    {{!-- Article Author - partials/article/article-author.hbs --}}
+    {{> "article/article-author"}}
+</section>
+
+<section class="post extreme-container u-marginBottom40">
+    <div class="row">
+        <article class="col-left">
+            {{!-- Post Image - partials/helper/helper-article-image.hbs --}}
+            {{#post}} {{> "helper/helper-article-image"}} {{/post}}
+
+            {{!-- Article Content - partials/article/article-body.hbs --}}
+            {{> "article/article-body"}}
+        </article>
+
+        {{!-- Sidebar - partials/sidebar.hbs --}}
+        {{> "sidebar"}}
+    </div>
+</section>
+
+{{!-- Comments partials/article/article-related.hbs --}}
+{{> "article/article-related"}}
+
+{{!-- Instagram partials/widget/widget-instagram.hbs --}}
+{{> "widget/widget-instagram"}}

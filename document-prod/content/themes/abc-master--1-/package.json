@@ -1,0 +1,21 @@
+{
+    "name": "abc",
+    "version": "2.0.0",
+    "author": {
+        "name": "Julian Ćwirko",
+        "email": "julian.cwirko@gmail.com"
+    },
+    "config": {
+        "posts_per_page": 6
+    },
+    "keywords": [
+        "ghost-theme"
+    ],
+    "devDependencies": {
+        "load-grunt-tasks": "~3.3.0",
+        "node-sass": "~3.3.3",
+        "grunt-sass": "~1.0.0",
+        "grunt": "~0.4.5",
+        "grunt-contrib-watch": "~0.6.1"
+    }
+}
